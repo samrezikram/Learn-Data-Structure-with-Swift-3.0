@@ -1,9 +1,9 @@
 //
 //  Math.swift
-//  SwiftStructures
+//  LearnSwiftDataStructureAndAlgorithems
 //
-//  Created by Wayne Bishop on 10/29/15.
-//  Copyright © 2015 Arbutus Software Inc. All rights reserved.
+//  Created by Samrez Ikram on 12/09/2016.
+//  Copyright © 2016 crescentcatcher. All rights reserved.
 //
 
 import Foundation
